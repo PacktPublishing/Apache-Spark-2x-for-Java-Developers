@@ -30,6 +30,3 @@ If you want to set up Spark on your local machine, then you can follow the instr
 * [Mastering Apache Spark 2.x - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/mastering-apache-spark-2x-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786462749)
 
 * [Apache Spark 2.x Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/apache-spark-2x-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781787127265)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
